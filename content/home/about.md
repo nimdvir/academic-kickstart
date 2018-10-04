@@ -13,6 +13,7 @@ weight = 5
     "Artificial Intelligence",
     "Computational Linguistics",
     "Information Retrieval"
+    "hi all"
   ]
 
 # List your qualifications (such as academic degrees).
