@@ -12,13 +12,13 @@ weight = 5
   interests = [
     "Artificial Intelligence",
     "Computational Linguistics",
-    "Information Retrieval"
+    "Information Retrieval",
     "hi all"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
+  course = "PhD in "
   institution = "Stanford University"
   year = 2012
 
