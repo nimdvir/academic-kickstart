@@ -52,7 +52,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Nim Dvir"
-  role = "Professor of Artificial Intelligence"
+  role = "phd"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -250,12 +250,12 @@ enableGitInfo = false
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "https://scholar.google.com/citations?hl=en&user=vzFELz4AAAAJ"
     
     [[params.social]]
     icon = "researchgate"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "https://www.researchgate.net/profile/Nim_Dvir"
 
   [[params.social]]
     icon = "github"
