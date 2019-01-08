@@ -3,7 +3,7 @@
 title = "Edie Falco ✯ Interview"
 
 # Date this page was created.
-# date = 2016-04-27T00:00:00
+date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
 summary = "An interview with the actress Edie Falco ("The Sopranos",  "Nurse Jackie") for Ynet"
@@ -19,7 +19,7 @@ external_link = "https://www.ynet.co.il/articles/0,7340,L-3272170,00.html"
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  #caption = "Photo by Toa Heftiba on Unsplash"
+  # caption = "Photo by Toa Heftiba on Unsplash"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
