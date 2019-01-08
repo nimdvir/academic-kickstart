@@ -2,10 +2,10 @@
 # Projects widget.
 widget = "projects"
 active = true
-date = 2016-04-20T00:00:00
+date = 2018-04-20T00:00:00
 
 title = "Media"
-subtitle = "media"
+subtitle = "My media work"
 
 # Order that this section will appear in.
 weight = 50
@@ -29,13 +29,13 @@ filter_default = 0
 # To show all items, set `tag` to "*".
 # To filter by a specific tag, set `tag` to an existing tag name.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
-# [[filter]]
-#   name = "All"
-#   tag = "*"
-#
-# [[filter]]
-#   name = "Deep Learning"
-#   tag = "Deep Learning"
+[[filter]]
+name = "All"
+tag = "*"
+
+[[filter]]
+name = "Interview"
+tag = "Interview"
 #
 # [[filter]]
 #   name = "Other"
